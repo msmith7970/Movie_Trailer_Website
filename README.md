@@ -10,14 +10,15 @@ in contained in the media.py file.
 
 1) Install Python 2.7.x. Instructions for installing Python can be found
   [here](https://www.python.org/downloads/).  
-2) Download and install these three files to a PC that has Python installed
-  to the same directory.  These three files are:
+2) Download and install these three files from GitHUb to a PC that has Python
+  installed to the same directory.  These three files are:
 
     1) fresh_tomatores.py
     2) entertainment_center.py
     3) media.py
 
-Unzip the zip file titled "media" in the same folder on your PC.
+The GitHub URL is: (https://github.com/msmith7970/Movie_Trailer_Website.git)
+
 Once these three files are installed and to see the results, follow pythons
 normal practice to run the file called 'entertainment.py'.
 
