@@ -20,7 +20,7 @@ in contained in the media.py file.
 The GitHub URL is: (https://github.com/msmith7970/Movie_Trailer_Website.git)
 
 Once these three files are installed and to see the results, follow pythons
-normal practice to run the file called 'entertainment.py'.
+normal practice to run the file called 'entertainment_center.py'.
 
 ## Usage
 The file entertainment.py contains the information to define the instance of
